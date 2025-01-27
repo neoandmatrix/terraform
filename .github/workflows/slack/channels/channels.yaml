@@ -26,3 +26,10 @@
   permanent_members:
     - "U08A4BEKM50"
 
+- name: channel_4
+  topic: no member.
+  purpose: test channel_4.
+  is_private: false
+  is_archived: false
+  action_on_destroy: archive
+
