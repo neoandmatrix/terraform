@@ -1,0 +1,28 @@
+- name: channel_1
+  topic: both members.
+  purpose: test channel_1.
+  is_private: false
+  is_archived: false
+  action_on_destroy: archive
+  permanent_members:
+    - "U08A1GT9AP7" 
+    - "U08A4BEKM50" 
+
+- name: channel_2
+  topic: single member.
+  purpose: test channel_2.
+  is_private: false
+  is_archived: false
+  action_on_destroy: archive
+  permanent_members:
+  - "U08A1GT9AP7"
+
+- name: channel_3
+  topic: single member.
+  purpose: test channel_3.
+  is_private: false
+  is_archived: false
+  action_on_destroy: archive
+  permanent_members:
+    - "U08A4BEKM50"
+

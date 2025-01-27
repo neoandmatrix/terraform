@@ -1,0 +1,19 @@
+- name: Tushar Anand
+  github: neoandmatrix
+  linkedin: tushar-anand-neo
+  slack: U08A4BEKM50
+  availableForHire: false
+  isTscMember: true
+  repos:
+    - some-repo
+  githubID: 141230066
+
+- name: Other member
+  github: no-github
+  linkedin: no-linkedin
+  slack: U08A1GT9AP7
+  availableForHire: false
+  isTscMember: true
+  repos:
+    - some-repo
+  githubID: 141230063  
